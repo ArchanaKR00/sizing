@@ -2,3 +2,5 @@
 ## SIZING
 
 ### Tailwind
+
+![img](sizing.jpeg)
